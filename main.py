@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.set_option('servre.hideGitInfo',True)
 # Set up the form
 st.title('User Information Form')
 
